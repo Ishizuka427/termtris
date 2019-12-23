@@ -249,6 +249,9 @@ these variables in scope. In a sense, they become 'locally global.'
       { {0, 1, 1},
         {1, 1, 0}
       },
+      { {1, 0, 1},
+        {1, 1, 1}
+      },  
       { {1, 1, 0},
         {0, 1, 1}
       },
